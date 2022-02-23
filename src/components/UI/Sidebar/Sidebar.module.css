@@ -1,0 +1,13 @@
+.sidebar {
+  background-color: #000;
+  transition: width 300ms linear;
+  color: #fff;
+}
+
+.minimized {
+  width: 75px;
+}
+
+.expanded {
+  width: 350px;
+}

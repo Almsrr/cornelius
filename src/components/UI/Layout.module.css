@@ -1,0 +1,15 @@
+.layout {
+  display: flex;
+  align-items: stretch;
+  height: 100vh;
+}
+
+/* .sideBarContainer {
+} */
+
+.viewContainer {
+  border-left: 1xp solid #000;
+  padding: 2rem;
+  position: relative;
+  width: 100%;
+}
